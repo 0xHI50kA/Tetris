@@ -29,4 +29,4 @@ Watch your commits fall like glowing blocks, stack them, and **build your cyberp
 
 ## 🎮 My GitHub Tetris Contribution Animation
 
-![Tetris Contributions](assets/tetrisGithub.gif)
+![Tetris Contributions](assets/TetrisGithub.gif)
