@@ -30,4 +30,4 @@ Watch your commits fall like glowing blocks, stack them, and **build your cyberp
 ## 🎮 My GitHub Tetris Contribution Animation
 
 ![Tetris Contributions](assets/TetrisGithub.gif)
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
